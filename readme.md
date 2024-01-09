@@ -12,7 +12,7 @@ PsychoPy, so if you have questions, please ask Andrew.
 
 There are many other very good PsychoPy tutorials, including those created by the 
 PsychoPy team. The motivation behind this tutorial was really to provide a home-grown, lab-based tutorial that benefited from having someone (Andrew) who
-is familiar with the types of approaches we use in my [lab](https://www.rich-ramsey.com) (e.g., experimental psychology and cognitive neuroscience). The benefit of doing so is that Andrew could cover the types of questions, designs and problems that we often face. Andrew could also provide worked examples that my lab should find familiar and useful. So, consider the tutorial a lab guide that has a public face because why not make it open, so others may benefit.
+is familiar with the types of approaches we use in Rich's [lab](https://www.rich-ramsey.com){target="_blank"} (e.g., experimental psychology and cognitive neuroscience). The benefit of doing so is that Andrew could cover the types of questions, designs and problems that we often face. Andrew could also provide worked examples that my lab should find familiar and useful. So, consider the tutorial a lab guide that has a public face because why not make it open, so others may benefit.
 
 ## How does the tutorial work? ##
 
