@@ -984,7 +984,7 @@ specify a) the colour of the circle that will appear, and b) the correct respons
 for the trial (either ‘space’ or nothing).
 
 ```{r, echo=FALSE, fig.cap="Fig. 24", fig.show='hold', fig.align='center'}
-knitr::include_graphics(c("img/img24a.png", "img/img24a.png"))
+knitr::include_graphics(c("img/img24a.png", "img/img24b.png"))
 ```
 
 Given the two blocks will be very similar, we can re-use all the same routines 
