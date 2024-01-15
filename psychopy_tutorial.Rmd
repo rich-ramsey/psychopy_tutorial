@@ -420,7 +420,7 @@ colour, font and size.
 
 While the front-end of the PsychoPy builder makes it easy to determine how and 
 when things should change in your components (e.g., update text each time the 
-routine repeats), in the background, the code is using methods[Methods] to adjust 
+routine repeats), in the background, the code is using [Methods] to adjust 
 the parameters of these objects. Using code, it is possible to bypass what’s happening 
 in the component, by using methods which update the object directly 
 (e.g., intro_text.setText(“new text”). This is what PsychoPy is already doing in 
