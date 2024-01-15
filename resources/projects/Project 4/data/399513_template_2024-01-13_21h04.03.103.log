@@ -1,0 +1,54 @@
+3.9878 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+4.0936 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+6.7687 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C9A91B1070>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C9AE09C670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C9AE09CEB0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C9AE4A3D00>, multiSample=False, name='window1', numSamples=2, pos=(960, 540), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7687 	EXP 	window1: mouseVisible = True
+6.7688 	EXP 	window1: backgroundImage = ''
+6.7688 	EXP 	window1: backgroundFit = 'none'
+6.7705 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7705 	EXP 	window1: recordFrameIntervals = False
+7.1016 	EXP 	window1: recordFrameIntervals = True
+7.4693 	EXP 	Screen (0) actual frame rate measured at 29.96Hz
+7.4693 	EXP 	window1: recordFrameIntervals = False
+7.4696 	EXP 	window1: mouseVisible = True
+7.5822 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+9.8701 	EXP 	template: status = STARTED
+9.8771 	EXP 	window1: mouseVisible = True
+9.8860 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.8878 	EXP 	window1: mouseVisible = True
+9.8959 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.8980 	EXP 	window1: mouseVisible = True
+9.9065 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9087 	EXP 	window1: mouseVisible = True
+9.9170 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9189 	EXP 	window1: mouseVisible = True
+9.9270 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9292 	EXP 	window1: mouseVisible = True
+9.9376 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9394 	EXP 	window1: mouseVisible = True
+9.9474 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9492 	EXP 	window1: mouseVisible = True
+9.9574 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9592 	EXP 	window1: mouseVisible = True
+9.9672 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9690 	EXP 	window1: mouseVisible = True
+9.9772 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+9.9979 	EXP 	window1: mouseVisible = True
+9.9996 	EXP 	window1: mouseVisible = True
+10.0281 	EXP 	window1: mouseVisible = True
+10.0377 	EXP 	window1: mouseVisible = True
+10.0554 	EXP 	Created trial_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='trial_slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=0, style='slider', styleTweaks=[], ticks=array([0, 1, 2, 3, 4]), units='height', win=Window(...))
+10.0554 	EXP 	window1: mouseVisible = True
+10.0556 	EXP 	window1: mouseVisible = True
+10.0756 	EXP 	Created trial_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='trial_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0079 	EXP 	trial_slider: autoLog = True
+0.0079 	EXP 	trial_slider: ticks = <class 'numpy.ndarray'>
+0.0079 	EXP 	trial_slider: styleTweaks = []
+0.0079 	EXP 	trial_slider: styleTweaks = []
+0.0079 	EXP 	trial_slider: styleTweaks = []
+0.0079 	EXP 	trial_slider: styleTweaks = []
+0.0079 	EXP 	trial_slider: contrast = 1.0
+0.0079 	EXP 	trial_slider: markerPos = 0
+0.0079 	EXP 	trial_slider: autoLog = True
+0.0087 	EXP 	Created sequence: sequential, trialTypes=1, nReps=9999, seed=None
+0.0345 	EXP 	New trial (rep=0, index=0): None
+0.0979 	EXP 	window1: mouseVisible = True

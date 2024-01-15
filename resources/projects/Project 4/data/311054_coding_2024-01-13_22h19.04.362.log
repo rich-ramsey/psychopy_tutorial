@@ -1,0 +1,233 @@
+3.9573 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+4.0692 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+6.9452 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [3840, 2160]. Using actual size
+8.3896 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C419050FA0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C419050F40>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C419050D60>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C4234900A0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([3840, 2160]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3896 	EXP 	window1: mouseVisible = True
+8.3896 	EXP 	window1: backgroundImage = ''
+8.3896 	EXP 	window1: backgroundFit = 'none'
+8.3910 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.3910 	EXP 	window1: recordFrameIntervals = False
+8.7226 	EXP 	window1: recordFrameIntervals = True
+9.0896 	EXP 	Screen (0) actual frame rate measured at 29.97Hz
+9.0896 	EXP 	window1: recordFrameIntervals = False
+9.0897 	EXP 	window1: mouseVisible = False
+11.9327 	EXP 	coding: status = STARTED
+11.9338 	EXP 	window1: mouseVisible = True
+11.9488 	EXP 	Created 0 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='0', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9489 	EXP 	window1: mouseVisible = True
+11.9521 	EXP 	Created 1 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9522 	EXP 	window1: mouseVisible = True
+11.9551 	EXP 	Created 2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9552 	EXP 	window1: mouseVisible = True
+11.9581 	EXP 	Created 3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9582 	EXP 	window1: mouseVisible = True
+11.9611 	EXP 	Created 4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9611 	EXP 	window1: mouseVisible = True
+11.9642 	EXP 	Created 5 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='5', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9643 	EXP 	window1: mouseVisible = True
+11.9673 	EXP 	Created 6 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='6', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9674 	EXP 	window1: mouseVisible = True
+11.9703 	EXP 	Created 7 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='7', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9704 	EXP 	window1: mouseVisible = True
+11.9734 	EXP 	Created 8 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='8', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9735 	EXP 	window1: mouseVisible = True
+11.9764 	EXP 	Created 9 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='9', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.9821 	EXP 	window1: mouseVisible = True
+11.9824 	EXP 	window1: mouseVisible = True
+11.9857 	EXP 	window1: mouseVisible = True
+11.9870 	EXP 	window1: mouseVisible = True
+12.0046 	EXP 	Created trial_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='trial_slider', opacity=None, ori=0.0, pos=array([ 0. , -0.2]), readOnly=False, self=UNKNOWN, size=array([0.5 , 0.05]), startValue=0, style='slider', styleTweaks=[], ticks=array([0, 1]), units='height', win=Window(...))
+12.0046 	EXP 	window1: mouseVisible = True
+12.0048 	EXP 	window1: mouseVisible = True
+12.0049 	EXP 	window1: mouseVisible = True
+12.0053 	EXP 	window1: mouseVisible = True
+12.0057 	EXP 	window1: mouseVisible = True
+12.0091 	EXP 	window1: mouseVisible = True
+12.0092 	EXP 	window1: mouseVisible = True
+12.0098 	EXP 	window1: mouseVisible = True
+12.0102 	EXP 	window1: mouseVisible = True
+12.0451 	EXP 	window1: mouseVisible = True
+12.0466 	EXP 	Created trial_reset = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([-1, -1,  1]), fillColorSpace='rgb', fillRGB=array([-1, -1,  1]), interpolate=True, lineColor=array([-1., -1.,  1.]), lineColorSpace='rgb', lineRGB=array([-1, -1,  1]), lineWidth=1.0, name='trial_reset', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.4]), size=array([0.15, 0.1 ]), units='height', vertices=ndarray(...), win=Window(...))
+12.0468 	EXP 	window1: mouseVisible = True
+12.0469 	EXP 	window1: mouseVisible = True
+12.0473 	EXP 	window1: mouseVisible = True
+12.0478 	EXP 	window1: mouseVisible = True
+12.0597 	EXP 	window1: mouseVisible = True
+12.0598 	EXP 	window1: mouseVisible = True
+12.0602 	EXP 	window1: mouseVisible = True
+12.0606 	EXP 	window1: mouseVisible = True
+0.0183 	EXP 	0: autoDraw = True
+0.0183 	EXP 	1: autoDraw = True
+0.0183 	EXP 	2: autoDraw = True
+0.0183 	EXP 	3: autoDraw = True
+0.0183 	EXP 	4: autoDraw = True
+0.0183 	EXP 	5: autoDraw = True
+0.0183 	EXP 	6: autoDraw = True
+0.0183 	EXP 	7: autoDraw = True
+0.0183 	EXP 	8: autoDraw = True
+0.0183 	EXP 	9: autoDraw = True
+0.0183 	EXP 	trial_slider: autoLog = True
+0.0183 	EXP 	trial_slider: styleTweaks = []
+0.0183 	EXP 	trial_slider: styleTweaks = []
+0.0183 	EXP 	trial_slider: styleTweaks = []
+0.0183 	EXP 	trial_slider: styleTweaks = []
+0.0183 	EXP 	trial_slider: contrast = 1.0
+0.0183 	EXP 	trial_slider: markerPos = 0
+0.0183 	EXP 	trial_slider: autoLog = True
+0.0183 	EXP 	trial_textbox: autoLog = True
+0.0183 	EXP 	trial_reset_text: autoLog = True
+0.0220 	EXP 	Created sequence: sequential, trialTypes=1, nReps=9999, seed=None
+0.0568 	EXP 	New trial (rep=0, index=0): None
+0.1493 	EXP 	trial_slider: markerPos = None
+0.1493 	EXP 	trial_slider: markerPos = 0
+0.1493 	EXP 	trial_slider: autoDraw = True
+0.1493 	EXP 	trial_textbox: autoDraw = True
+0.1493 	EXP 	trial_reset: autoDraw = True
+0.1493 	EXP 	trial_reset_text: autoDraw = True
+1.3990 	DATA 	Mouse: Left button down, pos=(1385,656)
+1.4477 	EXP 	trial_slider: markerPos = 0.012037037037037013
+1.4836 	EXP 	trial_slider: markerPos = 0.021296296296296313
+1.5272 	EXP 	trial_slider: markerPos = 0.0314814814814815
+1.5632 	EXP 	trial_slider: markerPos = 0.03888888888888886
+1.6051 	EXP 	trial_slider: markerPos = 0.04907407407407405
+1.6445 	EXP 	trial_slider: markerPos = 0.056481481481481466
+1.6874 	EXP 	trial_slider: markerPos = 0.06388888888888888
+1.7201 	EXP 	trial_slider: markerPos = 0.07407407407407407
+1.7530 	EXP 	trial_slider: markerPos = 0.07777777777777778
+1.7874 	EXP 	trial_slider: markerPos = 0.08148148148148149
+1.8197 	EXP 	trial_slider: markerPos = 0.08425925925925926
+1.8531 	EXP 	trial_slider: markerPos = 0.08611111111111114
+1.8920 	EXP 	trial_slider: markerPos = 0.08611111111111114
+2.0020 	EXP 	trial_slider: markerPos = 0.08611111111111114
+2.1101 	EXP 	trial_slider: markerPos = 0.08611111111111114
+2.2084 	EXP 	trial_slider: markerPos = 0.09629629629629627
+2.3111 	EXP 	trial_slider: markerPos = 0.11481481481481481
+2.4193 	EXP 	trial_slider: markerPos = 0.16296296296296298
+2.5229 	EXP 	trial_slider: markerPos = 0.21666666666666667
+2.6279 	EXP 	trial_slider: markerPos = 0.2537037037037037
+2.7366 	EXP 	trial_slider: markerPos = 0.2851851851851852
+2.8408 	EXP 	trial_slider: markerPos = 0.3194444444444444
+2.9468 	EXP 	trial_slider: markerPos = 0.39166666666666666
+3.0495 	EXP 	trial_slider: markerPos = 0.42314814814814816
+3.1502 	EXP 	trial_slider: markerPos = 0.46574074074074073
+3.2519 	EXP 	trial_slider: markerPos = 0.5398148148148149
+3.3634 	EXP 	trial_slider: markerPos = 0.6203703703703703
+3.4757 	EXP 	trial_slider: markerPos = 0.6907407407407408
+3.5893 	EXP 	trial_slider: markerPos = 0.750925925925926
+3.7030 	EXP 	trial_slider: markerPos = 0.8425925925925926
+3.8113 	EXP 	trial_slider: markerPos = 0.9138888888888889
+3.9322 	EXP 	trial_slider: markerPos = 0.9675925925925926
+4.0441 	EXP 	trial_slider: markerPos = 1.0027777777777778
+4.1577 	EXP 	trial_slider: markerPos = 1.0333333333333332
+4.2832 	EXP 	trial_slider: markerPos = 1.0527777777777778
+4.4018 	EXP 	trial_slider: markerPos = 1.0546296296296296
+4.5195 	EXP 	trial_slider: markerPos = 1.0583333333333333
+4.6477 	EXP 	trial_slider: markerPos = 1.0583333333333333
+4.7642 	EXP 	trial_slider: markerPos = 1.0407407407407407
+4.8756 	EXP 	trial_slider: markerPos = 1.0037037037037035
+4.9876 	EXP 	trial_slider: markerPos = 0.987037037037037
+5.0997 	EXP 	trial_slider: markerPos = 0.9731481481481481
+5.2080 	EXP 	trial_slider: markerPos = 0.9583333333333333
+5.3227 	EXP 	trial_slider: markerPos = 0.9379629629629629
+5.4404 	EXP 	trial_slider: markerPos = 0.9222222222222223
+5.5557 	EXP 	trial_slider: markerPos = 0.9009259259259259
+5.6678 	EXP 	trial_slider: markerPos = 0.875
+5.7821 	EXP 	trial_slider: markerPos = 0.837037037037037
+5.8934 	EXP 	trial_slider: markerPos = 0.8101851851851851
+6.0065 	EXP 	trial_slider: markerPos = 0.775
+6.1367 	EXP 	trial_slider: markerPos = 0.7203703703703703
+6.2804 	EXP 	trial_slider: markerPos = 0.6666666666666666
+6.4093 	EXP 	trial_slider: markerPos = 0.6166666666666667
+6.5330 	EXP 	trial_slider: markerPos = 0.5787037037037037
+6.6950 	EXP 	trial_slider: markerPos = 0.537962962962963
+6.8183 	EXP 	trial_slider: markerPos = 0.4759259259259259
+6.9241 	EXP 	trial_slider: markerPos = 0.43333333333333335
+6.9578 	EXP 	trial_slider: markerPos = 0.39444444444444443
+7.0003 	EXP 	trial_slider: markerPos = 0.38796296296296295
+7.0412 	EXP 	trial_slider: markerPos = 0.37592592592592594
+7.0779 	EXP 	trial_slider: markerPos = 0.3666666666666667
+7.1217 	EXP 	trial_slider: markerPos = 0.35462962962962963
+7.1566 	EXP 	trial_slider: markerPos = 0.3472222222222222
+7.1930 	EXP 	trial_slider: markerPos = 0.34351851851851856
+7.2311 	EXP 	trial_slider: markerPos = 0.3314814814814815
+7.2642 	EXP 	trial_slider: markerPos = 0.32407407407407407
+7.2980 	EXP 	trial_slider: markerPos = 0.31574074074074077
+7.3313 	EXP 	trial_slider: markerPos = 0.30833333333333335
+7.3643 	EXP 	trial_slider: markerPos = 0.3018518518518518
+7.3987 	EXP 	trial_slider: markerPos = 0.2972222222222222
+7.4315 	EXP 	trial_slider: markerPos = 0.29074074074074074
+7.4652 	EXP 	trial_slider: markerPos = 0.2861111111111111
+7.4980 	EXP 	trial_slider: markerPos = 0.2796296296296296
+7.5311 	EXP 	trial_slider: markerPos = 0.27222222222222225
+7.5644 	EXP 	trial_slider: markerPos = 0.26296296296296295
+7.5978 	EXP 	trial_slider: markerPos = 0.25277777777777777
+7.6313 	EXP 	trial_slider: markerPos = 0.24537037037037035
+7.6647 	EXP 	trial_slider: markerPos = 0.23703703703703705
+7.6978 	EXP 	trial_slider: markerPos = 0.23055555555555557
+7.7306 	EXP 	trial_slider: markerPos = 0.22499999999999998
+7.7644 	EXP 	trial_slider: markerPos = 0.21944444444444444
+7.7977 	EXP 	trial_slider: markerPos = 0.21203703703703702
+7.8307 	EXP 	trial_slider: markerPos = 0.20277777777777778
+7.8645 	EXP 	trial_slider: markerPos = 0.19166666666666665
+7.8970 	EXP 	trial_slider: markerPos = 0.18703703703703706
+7.9303 	EXP 	trial_slider: markerPos = 0.1787037037037037
+7.9635 	EXP 	trial_slider: markerPos = 0.16666666666666669
+7.9968 	EXP 	trial_slider: markerPos = 0.15925925925925927
+8.0330 	EXP 	trial_slider: markerPos = 0.14537037037037037
+8.1027 	EXP 	trial_slider: markerPos = 0.13611111111111113
+8.1660 	EXP 	trial_slider: markerPos = 0.11481481481481481
+8.2056 	EXP 	trial_slider: markerPos = 0.09722222222222221
+8.2454 	EXP 	trial_slider: markerPos = 0.08148148148148149
+8.2846 	EXP 	trial_slider: markerPos = 0.07037037037037036
+8.3261 	EXP 	trial_slider: markerPos = 0.05740740740740741
+8.3586 	EXP 	trial_slider: markerPos = 0.045370370370370394
+8.3921 	EXP 	trial_slider: markerPos = 0.037962962962962976
+8.4255 	EXP 	trial_slider: markerPos = 0.032407407407407385
+8.4588 	EXP 	trial_slider: markerPos = 0.021296296296296313
+8.4921 	EXP 	trial_slider: markerPos = 0.016666666666666663
+8.5254 	EXP 	trial_slider: markerPos = 0.006481481481481477
+8.5596 	EXP 	trial_slider: markerPos = -0.005555555555555536
+8.6108 	EXP 	trial_slider: markerPos = -0.01666666666666672
+8.6832 	EXP 	trial_slider: markerPos = -0.03888888888888886
+8.7535 	EXP 	trial_slider: markerPos = -0.05277777777777781
+8.8221 	EXP 	trial_slider: markerPos = -0.05833333333333335
+8.8883 	EXP 	trial_slider: markerPos = -0.062962962962963
+8.9238 	EXP 	trial_slider: markerPos = -0.062962962962963
+8.9566 	EXP 	trial_slider: markerPos = -0.06666666666666665
+8.9900 	EXP 	trial_slider: markerPos = -0.07037037037037042
+9.0154 	DATA 	Mouse:  Left button up, pos=(1303,579)
+9.0233 	EXP 	trial_slider: markerPos = -0.07037037037037042
+9.0567 	EXP 	trial_slider: markerPos = 0
+9.8006 	DATA 	Mouse: Left button down, pos=(2966,273)
+10.0197 	EXP 	New trial (rep=1, index=0): None
+10.0284 	DATA 	Mouse:  Left button up, pos=(2967,274)
+10.0425 	EXP 	trial_slider: autoDraw = False
+10.0425 	EXP 	trial_textbox: autoDraw = False
+10.0425 	EXP 	trial_reset: autoDraw = False
+10.0425 	EXP 	trial_reset_text: autoDraw = False
+10.0425 	EXP 	trial_slider: markerPos = None
+10.0425 	EXP 	trial_slider: markerPos = 0
+10.0425 	EXP 	trial_slider: autoDraw = True
+10.0425 	EXP 	trial_textbox: autoDraw = True
+10.0425 	EXP 	trial_reset: autoDraw = True
+10.0425 	EXP 	trial_reset_text: autoDraw = True
+10.8026 	DATA 	Mouse: Left button down, pos=(3132,1133)
+10.8676 	DATA 	Mouse:  Left button up, pos=(3132,1133)
+11.3616 	DATA 	Keypress: escape
+11.4975 	EXP 	coding: status = STOPPED
+11.5207 	EXP 	trial_slider: autoDraw = False
+11.5207 	EXP 	trial_textbox: autoDraw = False
+11.5207 	EXP 	0: autoDraw = False
+11.5207 	EXP 	1: autoDraw = False
+11.5207 	EXP 	2: autoDraw = False
+11.5207 	EXP 	3: autoDraw = False
+11.5207 	EXP 	4: autoDraw = False
+11.5207 	EXP 	5: autoDraw = False
+11.5207 	EXP 	6: autoDraw = False
+11.5207 	EXP 	7: autoDraw = False
+11.5207 	EXP 	8: autoDraw = False
+11.5207 	EXP 	9: autoDraw = False
+11.5207 	EXP 	trial_reset: autoDraw = False
+11.5207 	EXP 	trial_reset_text: autoDraw = False
+11.5208 	EXP 	coding: status = STOPPED
+11.6265 	EXP 	window1: mouseVisible = True

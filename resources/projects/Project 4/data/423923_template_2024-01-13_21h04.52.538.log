@@ -1,0 +1,306 @@
+3.9777 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+4.0932 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+7.1884 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209D28FCEB0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209D28FCE50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209D28FCC70>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000209D2D14E20>, multiSample=False, name='window1', numSamples=2, pos=(960, 540), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.1884 	EXP 	window1: mouseVisible = True
+7.1885 	EXP 	window1: backgroundImage = ''
+7.1885 	EXP 	window1: backgroundFit = 'none'
+7.1899 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.1900 	EXP 	window1: recordFrameIntervals = False
+7.5216 	EXP 	window1: recordFrameIntervals = True
+7.8888 	EXP 	Screen (0) actual frame rate measured at 29.96Hz
+7.8888 	EXP 	window1: recordFrameIntervals = False
+7.8889 	EXP 	window1: mouseVisible = True
+8.0141 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+12.1971 	EXP 	template: status = STARTED
+12.2029 	EXP 	window1: mouseVisible = True
+12.2104 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2119 	EXP 	window1: mouseVisible = True
+12.2188 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2203 	EXP 	window1: mouseVisible = True
+12.2273 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2288 	EXP 	window1: mouseVisible = True
+12.2357 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2372 	EXP 	window1: mouseVisible = True
+12.2441 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2456 	EXP 	window1: mouseVisible = True
+12.2524 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2539 	EXP 	window1: mouseVisible = True
+12.2609 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2625 	EXP 	window1: mouseVisible = True
+12.2694 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2709 	EXP 	window1: mouseVisible = True
+12.2777 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.2793 	EXP 	window1: mouseVisible = True
+12.2863 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+12.3037 	EXP 	window1: mouseVisible = True
+12.3051 	EXP 	window1: mouseVisible = True
+12.3205 	EXP 	window1: mouseVisible = True
+12.3244 	EXP 	window1: mouseVisible = True
+12.3424 	EXP 	Created trial_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='trial_slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=0, style='slider', styleTweaks=[], ticks=array([0, 1, 2, 3, 4]), units='height', win=Window(...))
+12.3425 	EXP 	window1: mouseVisible = True
+12.3426 	EXP 	window1: mouseVisible = True
+12.3622 	EXP 	Created trial_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='trial_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0069 	EXP 	trial_slider: autoLog = True
+0.0069 	EXP 	trial_slider: ticks = <class 'numpy.ndarray'>
+0.0069 	EXP 	trial_slider: styleTweaks = []
+0.0069 	EXP 	trial_slider: styleTweaks = []
+0.0069 	EXP 	trial_slider: styleTweaks = []
+0.0069 	EXP 	trial_slider: styleTweaks = []
+0.0069 	EXP 	trial_slider: contrast = 1.0
+0.0069 	EXP 	trial_slider: markerPos = 0
+0.0069 	EXP 	trial_slider: autoLog = True
+0.0075 	EXP 	Created sequence: sequential, trialTypes=1, nReps=9999, seed=None
+0.0278 	EXP 	New trial (rep=0, index=0): None
+0.1736 	EXP 	trial_slider: markerPos = None
+0.1736 	EXP 	trial_slider: markerPos = 0
+0.1736 	EXP 	trial_slider: autoDraw = True
+0.1736 	EXP 	trial_text: autoDraw = True
+1.2044 	EXP 	trial_text: autoDraw = False
+2.0451 	DATA 	Mouse: Left button down, pos=(427,540)
+2.3389 	EXP 	New trial (rep=1, index=0): None
+2.3732 	EXP 	trial_slider: autoDraw = False
+2.3732 	EXP 	trial_text: autoDraw = False
+2.3732 	EXP 	trial_slider: markerPos = None
+2.3732 	EXP 	trial_slider: markerPos = 0
+2.3732 	EXP 	trial_slider: autoDraw = True
+2.3732 	EXP 	trial_text: autoDraw = True
+2.3732 	EXP 	trial_slider: markerPos = 0.35925925925925917
+2.4038 	EXP 	trial_slider: markerPos = 0.3999999999999999
+2.4371 	EXP 	trial_slider: markerPos = 0.4555555555555555
+2.4705 	EXP 	trial_slider: markerPos = 0.5629629629629629
+2.5039 	EXP 	trial_slider: markerPos = 0.7
+2.5415 	EXP 	trial_slider: markerPos = 0.825925925925926
+2.5928 	EXP 	trial_slider: markerPos = 0.9370370370370371
+2.6066 	DATA 	Mouse:  Left button up, pos=(674,550)
+2.6252 	EXP 	trial_slider: markerPos = 1.0
+2.7826 	EXP 	New trial (rep=2, index=0): None
+2.8069 	EXP 	trial_slider: autoDraw = False
+2.8069 	EXP 	trial_text: autoDraw = False
+2.8069 	EXP 	trial_slider: markerPos = None
+2.8069 	EXP 	trial_slider: markerPos = 0
+2.8069 	EXP 	trial_slider: autoDraw = True
+2.8069 	EXP 	trial_text: autoDraw = True
+3.8394 	EXP 	trial_text: autoDraw = False
+6.3478 	DATA 	Mouse: Left button down, pos=(696,530)
+6.4757 	EXP 	New trial (rep=3, index=0): None
+6.4953 	EXP 	trial_slider: autoDraw = False
+6.4953 	EXP 	trial_text: autoDraw = False
+6.4953 	EXP 	trial_slider: markerPos = None
+6.4953 	EXP 	trial_slider: markerPos = 0
+6.4953 	EXP 	trial_slider: autoDraw = True
+6.4953 	EXP 	trial_text: autoDraw = True
+6.4953 	EXP 	trial_slider: markerPos = 1.0222222222222221
+6.5260 	EXP 	trial_slider: markerPos = 1.0666666666666667
+6.5591 	EXP 	trial_slider: markerPos = 1.151851851851852
+6.5926 	EXP 	trial_slider: markerPos = 1.1925925925925926
+6.6259 	EXP 	trial_slider: markerPos = 1.2185185185185186
+6.6592 	EXP 	trial_slider: markerPos = 1.237037037037037
+6.6924 	EXP 	trial_slider: markerPos = 1.2666666666666666
+6.7257 	EXP 	trial_slider: markerPos = 1.3074074074074074
+6.7591 	EXP 	trial_slider: markerPos = 1.3814814814814815
+6.7925 	EXP 	trial_slider: markerPos = 1.4629629629629628
+6.8302 	EXP 	trial_slider: markerPos = 1.5555555555555556
+6.8821 	EXP 	trial_slider: markerPos = 1.7481481481481482
+6.9487 	EXP 	trial_slider: markerPos = 1.9925925925925927
+6.9993 	EXP 	trial_slider: markerPos = 2.3185185185185184
+7.0480 	EXP 	trial_slider: markerPos = 2.674074074074074
+7.0990 	EXP 	trial_slider: markerPos = 2.9222222222222225
+7.1476 	EXP 	trial_slider: markerPos = 3.1259259259259258
+7.1794 	EXP 	trial_slider: markerPos = 3.311111111111111
+7.2127 	EXP 	trial_slider: markerPos = 3.3740740740740742
+7.2461 	EXP 	trial_slider: markerPos = 3.448148148148148
+7.2817 	EXP 	trial_slider: markerPos = 3.492592592592593
+7.3308 	EXP 	trial_slider: markerPos = 3.5444444444444443
+7.3824 	EXP 	trial_slider: markerPos = 3.5814814814814815
+7.4316 	EXP 	trial_slider: markerPos = 3.6259259259259258
+7.4827 	EXP 	trial_slider: markerPos = 3.6555555555555554
+7.5330 	EXP 	trial_text: autoDraw = False
+7.5330 	EXP 	trial_slider: markerPos = 3.7333333333333334
+7.5817 	EXP 	trial_slider: markerPos = 3.82962962962963
+7.6317 	EXP 	trial_slider: markerPos = 3.966666666666667
+7.6661 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.6994 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.7317 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.7630 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.7969 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.8317 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.8662 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.8990 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.9319 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.9664 	EXP 	trial_slider: markerPos = 4.033333333333333
+7.9984 	EXP 	trial_slider: markerPos = 4.033333333333333
+8.0322 	EXP 	trial_slider: markerPos = 3.985185185185185
+8.0652 	EXP 	trial_slider: markerPos = 3.7296296296296294
+8.1167 	EXP 	trial_slider: markerPos = 3.4259259259259256
+8.1652 	EXP 	trial_slider: markerPos = 2.911111111111111
+8.2158 	EXP 	trial_slider: markerPos = 2.5
+8.2666 	EXP 	trial_slider: markerPos = 2.033333333333333
+8.3143 	EXP 	trial_slider: markerPos = 1.6592592592592592
+8.3451 	EXP 	trial_slider: markerPos = 1.1074074074074074
+8.3790 	EXP 	trial_slider: markerPos = 0.8962962962962964
+8.4172 	EXP 	trial_slider: markerPos = 0.8296296296296297
+8.4488 	EXP 	trial_slider: markerPos = 0.825925925925926
+8.4825 	EXP 	trial_slider: markerPos = 0.825925925925926
+8.5170 	EXP 	trial_slider: markerPos = 0.825925925925926
+8.5406 	DATA 	Mouse:  Left button up, pos=(643,538)
+8.5477 	EXP 	trial_slider: markerPos = 0.825925925925926
+8.5808 	EXP 	trial_slider: markerPos = 1.0
+8.6938 	EXP 	New trial (rep=4, index=0): None
+8.7149 	EXP 	trial_slider: autoDraw = False
+8.7149 	EXP 	trial_text: autoDraw = False
+8.7149 	EXP 	trial_slider: markerPos = None
+8.7149 	EXP 	trial_slider: markerPos = 0
+8.7149 	EXP 	trial_slider: autoDraw = True
+8.7149 	EXP 	trial_text: autoDraw = True
+9.5158 	DATA 	Mouse: Left button down, pos=(720,540)
+9.6503 	EXP 	New trial (rep=5, index=0): None
+9.6592 	DATA 	Mouse:  Left button up, pos=(938,524)
+9.6820 	EXP 	trial_slider: autoDraw = False
+9.6820 	EXP 	trial_text: autoDraw = False
+9.6820 	EXP 	trial_slider: markerPos = None
+9.6820 	EXP 	trial_slider: markerPos = 0
+9.6820 	EXP 	trial_slider: autoDraw = True
+9.6820 	EXP 	trial_text: autoDraw = True
+9.9492 	DATA 	Mouse: Left button down, pos=(1214,532)
+10.0754 	EXP 	New trial (rep=6, index=0): None
+10.0826 	DATA 	Mouse:  Left button up, pos=(1214,532)
+10.0992 	EXP 	trial_slider: autoDraw = False
+10.0992 	EXP 	trial_text: autoDraw = False
+10.0992 	EXP 	trial_slider: markerPos = None
+10.0992 	EXP 	trial_slider: markerPos = 0
+10.0992 	EXP 	trial_slider: autoDraw = True
+10.0992 	EXP 	trial_text: autoDraw = True
+10.4602 	DATA 	Mouse: Left button down, pos=(1233,545)
+10.5783 	EXP 	New trial (rep=7, index=0): None
+10.5863 	DATA 	Mouse:  Left button up, pos=(1237,544)
+10.5996 	EXP 	trial_slider: autoDraw = False
+10.5996 	EXP 	trial_text: autoDraw = False
+10.5996 	EXP 	trial_slider: markerPos = None
+10.5996 	EXP 	trial_slider: markerPos = 0
+10.5996 	EXP 	trial_slider: autoDraw = True
+10.5996 	EXP 	trial_text: autoDraw = True
+10.9342 	DATA 	Mouse: Left button down, pos=(1226,552)
+11.0589 	EXP 	New trial (rep=8, index=0): None
+11.0835 	EXP 	trial_slider: autoDraw = False
+11.0835 	EXP 	trial_text: autoDraw = False
+11.0835 	EXP 	trial_slider: markerPos = None
+11.0835 	EXP 	trial_slider: markerPos = 0
+11.0835 	EXP 	trial_slider: autoDraw = True
+11.0835 	EXP 	trial_text: autoDraw = True
+11.0835 	EXP 	trial_slider: markerPos = 3.2777777777777777
+11.1145 	EXP 	trial_slider: markerPos = 3.5703703703703704
+11.1173 	DATA 	Mouse:  Left button up, pos=(1407,559)
+11.1479 	EXP 	trial_slider: markerPos = 4.0
+11.2804 	EXP 	New trial (rep=9, index=0): None
+11.3004 	EXP 	trial_slider: autoDraw = False
+11.3004 	EXP 	trial_text: autoDraw = False
+11.3004 	EXP 	trial_slider: markerPos = None
+11.3004 	EXP 	trial_slider: markerPos = 0
+11.3004 	EXP 	trial_slider: autoDraw = True
+11.3004 	EXP 	trial_text: autoDraw = True
+11.5359 	DATA 	Mouse: Left button down, pos=(572,527)
+11.7256 	EXP 	New trial (rep=10, index=0): None
+11.7341 	DATA 	Mouse:  Left button up, pos=(903,501)
+11.7509 	EXP 	trial_slider: autoDraw = False
+11.7509 	EXP 	trial_text: autoDraw = False
+11.7509 	EXP 	trial_slider: markerPos = None
+11.7509 	EXP 	trial_slider: markerPos = 0
+11.7509 	EXP 	trial_slider: autoDraw = True
+11.7509 	EXP 	trial_text: autoDraw = True
+12.0081 	DATA 	Mouse: Left button down, pos=(1064,556)
+12.0344 	EXP 	trial_slider: markerPos = 2.3851851851851853
+12.1831 	EXP 	New trial (rep=11, index=0): None
+12.1922 	DATA 	Mouse:  Left button up, pos=(1311,543)
+12.2182 	EXP 	trial_slider: autoDraw = False
+12.2182 	EXP 	trial_text: autoDraw = False
+12.2182 	EXP 	trial_slider: markerPos = None
+12.2182 	EXP 	trial_slider: markerPos = 0
+12.2182 	EXP 	trial_slider: autoDraw = True
+12.2182 	EXP 	trial_text: autoDraw = True
+12.2182 	EXP 	trial_slider: markerPos = 0.0
+12.3233 	EXP 	New trial (rep=12, index=0): None
+12.3520 	EXP 	trial_slider: autoDraw = False
+12.3520 	EXP 	trial_text: autoDraw = False
+12.3520 	EXP 	trial_slider: markerPos = None
+12.3520 	EXP 	trial_slider: markerPos = 0
+12.3520 	EXP 	trial_slider: autoDraw = True
+12.3520 	EXP 	trial_text: autoDraw = True
+12.7096 	DATA 	Mouse: Left button down, pos=(1462,537)
+12.7351 	EXP 	trial_slider: markerPos = 3.8666666666666667
+12.8849 	EXP 	New trial (rep=13, index=0): None
+12.8934 	DATA 	Mouse:  Left button up, pos=(1488,532)
+12.9188 	EXP 	trial_slider: autoDraw = False
+12.9188 	EXP 	trial_text: autoDraw = False
+12.9188 	EXP 	trial_slider: markerPos = None
+12.9188 	EXP 	trial_slider: markerPos = 0
+12.9188 	EXP 	trial_slider: autoDraw = True
+12.9188 	EXP 	trial_text: autoDraw = True
+12.9188 	EXP 	trial_slider: markerPos = 0.0
+13.0214 	EXP 	New trial (rep=14, index=0): None
+13.0524 	EXP 	trial_slider: autoDraw = False
+13.0524 	EXP 	trial_text: autoDraw = False
+13.0524 	EXP 	trial_slider: markerPos = None
+13.0524 	EXP 	trial_slider: markerPos = 0
+13.0524 	EXP 	trial_slider: autoDraw = True
+13.0524 	EXP 	trial_text: autoDraw = True
+13.3322 	DATA 	Mouse: Left button down, pos=(1498,532)
+13.3527 	EXP 	trial_slider: markerPos = 3.992592592592593
+13.4800 	EXP 	New trial (rep=15, index=0): None
+13.5026 	EXP 	trial_slider: autoDraw = False
+13.5026 	EXP 	trial_text: autoDraw = False
+13.5026 	EXP 	trial_slider: markerPos = None
+13.5026 	EXP 	trial_slider: markerPos = 0
+13.5026 	EXP 	trial_slider: autoDraw = True
+13.5026 	EXP 	trial_text: autoDraw = True
+13.5026 	EXP 	trial_slider: markerPos = 3.648148148148148
+13.5331 	EXP 	trial_slider: markerPos = 3.4518518518518517
+13.5664 	EXP 	trial_slider: markerPos = 3.17037037037037
+13.5997 	EXP 	trial_slider: markerPos = 2.911111111111111
+13.6329 	EXP 	trial_slider: markerPos = 2.8333333333333335
+13.6663 	EXP 	trial_slider: markerPos = 2.803703703703704
+13.6999 	EXP 	trial_slider: markerPos = 2.7962962962962963
+13.7374 	EXP 	trial_slider: markerPos = 2.7962962962962963
+13.7872 	EXP 	trial_slider: markerPos = 2.7962962962962963
+13.8386 	EXP 	trial_slider: markerPos = 2.7962962962962963
+13.8864 	EXP 	trial_slider: markerPos = 2.8185185185185184
+13.9177 	EXP 	trial_slider: markerPos = 2.8925925925925924
+13.9712 	EXP 	trial_slider: markerPos = 2.937037037037037
+14.0212 	EXP 	trial_slider: markerPos = 2.937037037037037
+14.0721 	EXP 	trial_slider: markerPos = 2.925925925925926
+14.1215 	EXP 	trial_slider: markerPos = 2.3703703703703702
+14.1880 	EXP 	trial_slider: markerPos = 2.011111111111111
+14.2379 	EXP 	trial_slider: markerPos = 1.9703703703703703
+14.2878 	EXP 	trial_slider: markerPos = 1.9703703703703703
+14.3374 	EXP 	trial_slider: markerPos = 1.9703703703703703
+14.3707 	EXP 	trial_slider: markerPos = 1.9703703703703703
+14.4042 	EXP 	trial_slider: markerPos = 1.9666666666666666
+14.4373 	EXP 	trial_slider: markerPos = 1.8888888888888888
+14.4891 	EXP 	trial_slider: markerPos = 1.6
+14.5386 	EXP 	trial_text: autoDraw = False
+14.5386 	EXP 	trial_slider: markerPos = 1.3074074074074074
+14.5896 	EXP 	trial_slider: markerPos = 1.2259259259259259
+14.6389 	EXP 	trial_slider: markerPos = 1.0962962962962963
+14.6891 	EXP 	trial_slider: markerPos = 1.0296296296296297
+14.7203 	EXP 	trial_slider: markerPos = 0.951851851851852
+14.7531 	EXP 	trial_slider: markerPos = 0.9074074074074074
+14.7863 	EXP 	trial_slider: markerPos = 0.7814814814814814
+14.8198 	EXP 	trial_slider: markerPos = 0.6962962962962962
+14.8530 	EXP 	trial_slider: markerPos = 0.5222222222222221
+14.8864 	EXP 	trial_slider: markerPos = 0.4481481481481482
+14.9200 	EXP 	trial_slider: markerPos = 0.44074074074074066
+14.9339 	DATA 	Mouse:  Left button up, pos=(539,542)
+14.9539 	EXP 	trial_slider: markerPos = 0.44074074074074066
+14.9864 	EXP 	trial_slider: markerPos = 0.0
+15.1701 	EXP 	New trial (rep=16, index=0): None
+15.1876 	EXP 	trial_slider: autoDraw = False
+15.1876 	EXP 	trial_text: autoDraw = False
+15.1876 	EXP 	trial_slider: markerPos = None
+15.1876 	EXP 	trial_slider: markerPos = 0
+15.1876 	EXP 	trial_slider: autoDraw = True
+15.1876 	EXP 	trial_text: autoDraw = True
+15.2195 	DATA 	Keypress: escape
+15.3539 	EXP 	template: status = STOPPED
+15.3727 	EXP 	trial_slider: autoDraw = False
+15.3727 	EXP 	trial_text: autoDraw = False
+15.3728 	EXP 	template: status = STOPPED
+15.4761 	EXP 	window1: mouseVisible = True

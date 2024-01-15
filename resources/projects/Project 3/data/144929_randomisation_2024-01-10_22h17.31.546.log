@@ -1,0 +1,44 @@
+3.7264 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+3.8356 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+5.8356 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [3840, 2160]. Using actual size
+6.9777 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E09AEB9CD0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E09AEB9C70>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E09AEB9AF0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E0A03BB820>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([3840, 2160]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9780 	EXP 	window1: mouseVisible = True
+6.9781 	EXP 	window1: backgroundImage = ''
+6.9781 	EXP 	window1: backgroundFit = 'none'
+6.9800 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.9801 	EXP 	window1: recordFrameIntervals = False
+7.0813 	DATA 	Mouse: Left button down, pos=(2332,1232)
+7.1295 	DATA 	Keypress: escape
+7.1439 	EXP 	window1: recordFrameIntervals = True
+7.1812 	DATA 	Mouse:  Left button up, pos=(2332,1230)
+7.3283 	EXP 	Screen (0) actual frame rate measured at 60.09Hz
+7.3284 	EXP 	window1: recordFrameIntervals = False
+7.3287 	EXP 	window1: mouseVisible = False
+9.5104 	EXP 	randomisation: status = STARTED
+9.5108 	EXP 	window1: mouseVisible = True
+9.5764 	EXP 	Created intro_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.5766 	EXP 	window1: mouseVisible = True
+9.5787 	EXP 	Created fixation_cross = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation_cross', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.5788 	EXP 	window1: mouseVisible = True
+9.5927 	EXP 	Created trial_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='trial_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+9.5928 	EXP 	window1: mouseVisible = True
+9.5997 	EXP 	Created fin_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fin_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='The experiment is now over.', units='height', win=Window(...), wrapWidth=1)
+0.0005 	DATA 	Keypress: escape
+0.0011 	DATA 	Keypress: escape
+0.0014 	DATA 	Keypress: escape
+0.0015 	DATA 	Keypress: escape
+0.0017 	DATA 	Keypress: escape
+0.0019 	DATA 	Keypress: escape
+0.0024 	DATA 	Keypress: escape
+0.0031 	DATA 	Keypress: escape
+0.0035 	DATA 	Keypress: escape
+0.0288 	EXP 	Imported conditions_files/stim_names.xlsx as conditions, 5 conditions, 1 params
+0.0292 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0295 	EXP 	New trial (rep=0, index=0): {'path': 'stimuli/A5.png'}
+0.0304 	EXP 	New trial (rep=0, index=1): {'path': 'stimuli/A8.png'}
+0.0311 	EXP 	New trial (rep=0, index=2): {'path': 'stimuli/A3.png'}
+0.0318 	EXP 	New trial (rep=0, index=3): {'path': 'stimuli/A4.png'}
+0.0323 	EXP 	New trial (rep=0, index=4): {'path': 'stimuli/A1.png'}
+0.0336 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+0.0516 	EXP 	randomisation: status = STOPPED
+0.1533 	EXP 	window1: mouseVisible = True

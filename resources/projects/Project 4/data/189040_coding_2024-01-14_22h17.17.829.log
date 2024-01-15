@@ -1,0 +1,15 @@
+5.4900 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+5.6230 	WARNING 	C:\Users\andre\AppData\Roaming\psychopy3\fonts\Times.truetype doesn't have valid font family name
+9.4045 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [3840, 2160]. Using actual size
+12.8890 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022BA4708220>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022BA47081C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022BA49B3820>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000022BA4CD6340>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([3840, 2160]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.8893 	EXP 	window1: mouseVisible = True
+12.8894 	EXP 	window1: backgroundImage = ''
+12.8894 	EXP 	window1: backgroundFit = 'none'
+12.8962 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.8963 	EXP 	window1: recordFrameIntervals = False
+13.0547 	EXP 	window1: recordFrameIntervals = True
+13.2389 	EXP 	Screen (0) actual frame rate measured at 59.89Hz
+13.2390 	EXP 	window1: recordFrameIntervals = False
+13.2393 	EXP 	window1: mouseVisible = False
+17.2315 	EXP 	coding: status = STARTED
+19.3066 	EXP 	window1: mouseVisible = True
