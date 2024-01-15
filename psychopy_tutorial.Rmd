@@ -1531,8 +1531,8 @@ component) are known to PsychoPy, and will be uploaded to Pavlovia upon syncing.
 Anything set via variables, PsychoPy doesn’t “know” about, and must be added to 
 the Additional Resources section of the Experiment Settings “online” tab:
 
-```{r, echo=FALSE, fig.cap="Fig. X"}
-knitr::include_graphics("img/imgX.png")
+```{r, echo=FALSE, fig.cap="Fig. 41"}
+knitr::include_graphics("img/img41.png")
 ```
 
 If you are recruiting from a system that allows you to grant credits or payment 
