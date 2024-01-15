@@ -16,7 +16,7 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Brief background to PsychoPy #
+# Background #
 
 [PsychoPy](https://www.psychopy.org/) is a python library and GUI/builder for 
 creating experiments. The builder allows you to assemble routines, components, 
@@ -102,7 +102,7 @@ knitr::include_graphics("img/img3.png")
 knitr::include_graphics("img/img4.png")
 ```
 
-## Getting Started: Section Summary ##
+## Section Summary ##
 
 * The PsychoPy Builder allows you to build/code experiments efficiently.
 * The builder can render a Python and/or JavaScript file, however, cannot do 
@@ -112,7 +112,7 @@ the reverse (open a code/.py file back into a builder project).
 using the PsychoPy package.
 
 
-# Experiment Settings and Preferences #
+# Preferences and Settings #
 
 Settings and preferences can be located from the builder view. These are used 
 to configure a few key aspects of PsychoPy’s behaviour:
@@ -133,7 +133,7 @@ preferences at their default values.
 knitr::include_graphics(c("img/img5a.png", "img/img5b.png"))
 ```
 
-## Experiment Settings ##
+## Settings ##
 
 The experiment settings window is used to configure things which affect the 
 whole experiment, such as the background colour of the screen, the units used 
@@ -201,7 +201,7 @@ individual components and leave the overall setting as height units, as
 typically experiments will contain far more non-stimuli components needing 
 height/position information than the stimuli of interest that to be exact.
 
-## Experiment Settings and Preferences: Section Summary ##
+## Section Summary ##
 
 *	Settings found in Preferences and Experiment Settings affect PsychoPy’s 
 behaviour *throughout* the experiment
@@ -209,7 +209,7 @@ behaviour *throughout* the experiment
 Experiment Settings and Preferences
 
 
-# Tools of the PsychoPy Builder #
+# The PsychoPy Builder #
 
 ## Components ##
 
@@ -324,7 +324,7 @@ routine a new name. This is different to adding a copy of the same routine, in
 which case any changes would be reflected in *all* instances of that routine.
 
 
-# Best practice and Useful to know #
+# Best practice #
 
 ## Best Practice ##
 
