@@ -209,7 +209,7 @@ behaviour *throughout* the experiment
 Experiment Settings and Preferences
 
 
-# Understanding the Tools of the PsychoPy Builder #
+# Tools of the PsychoPy Builder #
 
 ## Components ##
 
@@ -324,7 +324,7 @@ routine a new name. This is different to adding a copy of the same routine, in
 which case any changes would be reflected in *all* instances of that routine.
 
 
-# Best practice, Examples and Useful to know #
+# Best practice and Useful to know #
 
 ## Best Practice ##
 
@@ -393,7 +393,7 @@ least slightly. For example, the default font for text components gets replaced
 by a serif font online. Visuals in general (text and images) will generally 
 appear slightly different due to how the JS side handles edges/aliasing.
 
-# Basic coding and the Python language #
+# Basic coding in Python #
 
 This section will cover some basic coding concepts in the Python language to 
 provide a primer on how to use custom code components to optimise your experiment 
